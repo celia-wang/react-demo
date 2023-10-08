@@ -9,7 +9,7 @@
     "sourceType": "module"
   },
   "rules": {
-    "object-curly-newline": "off",
-    "no-console": "error"
+    "object-curly-newline": "off"
+    // "no-console": "error"
   }
 }
